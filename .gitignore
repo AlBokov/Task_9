@@ -5,7 +5,10 @@ target/
 
 ### IntelliJ IDEA ###
 .idea/
+<<<<<<< HEAD
 .idea/modules.xml
+=======
+>>>>>>> 52e760ba698b4a0cae82778ea2db1f2986fddd74
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
